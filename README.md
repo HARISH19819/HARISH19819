@@ -10,7 +10,7 @@
   <img src="https:&#47;&#47;komarev&#46;com&#47;ghpvc&#47;?username=HARISH19819&color=ff007f&style=for-the-badge" alt="Profile Views" />
 </p>
 
-## 🌈 About Me
+##  About Me
 
 ```yaml
 Degree: B.Tech AI & Data Science @ SIET Coimbatore (CGPA 8.5)
